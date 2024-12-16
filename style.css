@@ -1,0 +1,19 @@
+body {
+	background-color: #FFD8BE;
+	color: #18020C;
+	}
+
+.container {
+	background-color: #9381FF;
+	padding: 20px;
+	box-shadow: 10px 10px 5px -5px rgba(0,0,0,0.75);
+	font-family: Times New Roman
+}
+
+.container h2 {
+	text-align: center;
+}
+
+.btn {
+	background-color: #634B66;
+}
